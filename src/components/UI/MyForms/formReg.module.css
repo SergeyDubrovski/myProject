@@ -1,0 +1,14 @@
+.formInputerror {
+    border: 2px solid red;
+
+}
+.formInput {
+    border: 1px solid blue ;
+
+}
+ 
+
+.span {
+    border: 2px solid red;
+    color: red;
+}
